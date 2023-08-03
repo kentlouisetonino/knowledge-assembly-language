@@ -1,5 +1,5 @@
 /*
-  ## Description
-  > - Link: https://go.dev/tour/basics/9
+  Documentation Reference:
+    fmt   : https://pkg.go.dev/fmt
 */
 
