@@ -10,6 +10,10 @@
     }
 
   You can use fmt.Printf() like in C.
+
+  Package References:
+    fmt   : https://pkg.go.dev/fmt
+    math  : https://pkg.go.dev/math
 */
 
 package main
