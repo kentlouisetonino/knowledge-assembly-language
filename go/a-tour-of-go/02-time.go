@@ -9,6 +9,5 @@ import "fmt"
 import "time"
 
 func main() {
-  fmt.Println("The time is", time.Now());
+  fmt.Println("Fucking time: ", time.Now());
 }
-
