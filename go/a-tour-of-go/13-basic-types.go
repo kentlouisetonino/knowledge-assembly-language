@@ -18,9 +18,11 @@
   The example below shows variables of several types, and also that variable
   declarations may be "factored" into blocks, as with import statements.
 
-  Note
-   %T : Getting the type.
-   %v : Getting the value.
+  [Note]
+   %T                 : Getting the type.
+   %v                 : Getting the value.
+   Signed Integer     : Can store negative and positive values.
+   Unsigned Integer   : Cannot store negative values, only positive.
 */
 
 package main
