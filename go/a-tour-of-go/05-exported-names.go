@@ -15,6 +15,10 @@ import "fmt"
 import "math"
 
 func main() {
-  fmt.Println(math.Pi);
+  // Pi (The ratio of a circle circumference to its diameter).
+  fmt.Println("Pi   :", math.Pi);
+
+  // Phi (The basic for the Golden Ration, Section, or Mean).
+  fmt.Println("Phi  :", math.Phi);
 }
 
