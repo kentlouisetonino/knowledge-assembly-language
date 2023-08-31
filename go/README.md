@@ -12,3 +12,7 @@
 > - It is often referred to as Golang because of its former domain name, but
     it's proper name is Go.
 
+<br />
+
+> - This directory will cover anything related to go.
+
