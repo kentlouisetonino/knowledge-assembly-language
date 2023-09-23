@@ -2,6 +2,6 @@ package main
 import "fmt"
 
 func main() {
-  fmt.Println("Cruel World!");
+  fmt.Println("Cruel Fucking World!");
 }
 
