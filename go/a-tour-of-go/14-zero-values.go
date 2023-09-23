@@ -1,4 +1,2 @@
-/*
-  https://go.dev/tour/basics/12
-*/
+// Start here.
 
