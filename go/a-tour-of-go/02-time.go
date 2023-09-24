@@ -9,6 +9,17 @@
       in calendars consists of 365 days, with a leap day being added to February
       in the leap years.
     - In this package the calculations has no leap seconds.
+
+  Time (Package)
+    Wall Clock
+      - Subject to changes for clock synchronization.
+      - The general rule is that the wall clock is for telling time.
+
+    Monotonic Clock
+      - Is not subject to change.
+      - Is for measuring time.
+      - A time source that won't ever jump forward or backward (due to Network Time
+        Protocol or Daylight Saving Time updates).
 */
 
 package main
