@@ -8,6 +8,7 @@
       is a solar calendar with 12 months of 28-31 days each. The year in both
       in calendars consists of 365 days, with a leap day being added to February
       in the leap years.
+    - In this package the calculations has no leap seconds.
 */
 
 package main
