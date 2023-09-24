@@ -27,6 +27,6 @@ import "fmt"
 import "time"
 
 func main() {
-  fmt.Println("Fucking time: ", time.Now());
+  fmt.Println("Current Time: ", time.Now());
 }
 
