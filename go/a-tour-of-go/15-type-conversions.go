@@ -1,6 +1,8 @@
 /*
   Type Conversions
     - The expression T(v) converts the value v to the type T.
+    - Note: Unlike in C, in Go assigment between items of different
+      type requires an explicit conversion.
 */
 
 package main
@@ -9,7 +11,7 @@ import "fmt"
 
 func numericConversion() {
   var i int = 42
-  var f float64 = float64(i)
+  var f float64 = float64(i) 
   var u uint = uint(f)
 
   fmt.Println("***** Numeric Conversion *****")
