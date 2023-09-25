@@ -11,7 +11,7 @@
     - complex64 complex128
 
   The "int", "uint", and "uintptr" types are usually 32bits wide on 32b-bit
-  system and 64 bits wide on 64-bit systemss. When you need an integer value
+  system and 64 bits wide on 64-bit systems. When you need an integer value
   you should use "int" unless you have a specific reason to use a sized or
   unsigned integer type.
 
