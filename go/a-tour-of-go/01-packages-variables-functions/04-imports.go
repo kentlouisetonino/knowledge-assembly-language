@@ -4,10 +4,10 @@
     import "math"
   
   But it is a good style to use the factored import statement.
-    import {
+    import (
       "fmt"
       "math"
-    }
+    )
 
   You can use fmt.Printf() like in C.
 
