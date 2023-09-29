@@ -14,8 +14,8 @@ import "math/bits"
 
 
 const (
-  // Shifting 1 bit left 100 places.
-  // The binary number that is 1 followed by 100 zeroes.
+  // Shifting 1 bit left 62 places.
+  // The binary number that is 1 followed by 62 zeroes.
   Big = 1 << 62
 
   // Shifting 63 bits right 61 places.
