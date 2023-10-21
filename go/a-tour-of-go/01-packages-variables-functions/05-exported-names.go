@@ -11,8 +11,11 @@
 */
 
 package main
-import "fmt"
-import "math"
+
+import (
+	"fmt"
+	"math"
+)
 
 func main() {
   // Pi (The ratio of a circle circumference to its diameter).
