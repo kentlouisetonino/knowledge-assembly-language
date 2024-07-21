@@ -7,9 +7,9 @@
 
 <br />
 
-| Illustration 1: Computer Architecture |
+| Computer Architecture |
 | ------------------------------------- |
-| ![Illustration 1](./images/illustration-01-basic-diagram-of-computer-architecture.png) |
+| ![Illustration 1](./images/01-basic-diagram-of-computer-architecture.png) |
 
 <br />
 
