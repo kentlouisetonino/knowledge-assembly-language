@@ -12,3 +12,8 @@
 | ![Supported Storage Sizes](./images/02-supported-storage-sizes.png) |
 
 <br />
+
+> - Lists or arrays (sets of memory) can be reserved in any of these types.
+
+> - These storage sizes have a direct correlation to variable declarations <br />
+    in high-level languages (C, C++, Java, etc.).
