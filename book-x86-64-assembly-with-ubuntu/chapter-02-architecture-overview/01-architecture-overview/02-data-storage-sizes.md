@@ -17,3 +17,17 @@
 
 > - These storage sizes have a direct correlation to variable declarations <br />
     in high-level languages (C, C++, Java, etc.).
+
+> - For example, C/C++ declarations are mapped as follows:
+
+<br />
+
+| C/C++ Mapped Declarations |
+| ------------------------- |
+| ![C/C++ Mapped Declarations](./images/03-c-cpp-declarations-mapped.png) |
+
+<br />
+
+> - The asterisk indicates an address variable.
+
+> - For example, `int *` means the address of an integer.
