@@ -9,7 +9,7 @@
 
 | Supported Storage Sizes |
 | ----------------------- |
-| ![Supported Storage Sizes](./images/02-supported-storage-sizes.png) |
+| ![Supported Storage Sizes](./images/01-supported-storage-sizes.png) |
 
 <br />
 
@@ -24,7 +24,7 @@
 
 | C/C++ Mapped Declarations |
 | ------------------------- |
-| ![C/C++ Mapped Declarations](./images/03-c-cpp-declarations-mapped.png) |
+| ![C/C++ Mapped Declarations](./images/02-c-cpp-declarations-mapped.png) |
 
 <br />
 
