@@ -40,12 +40,28 @@
     `rax` register would contain the following value in hex.
 
 ```plaintext
+50,000,000,000 (decimal) = 1011 1010 0100 0011 1011 0111 0100 0000 0000 (binary)
+
+Hexadecimal Equivalent:
+1011 -> B
+1010 -> A
+0100 -> 4
+0011 -> 3
+1011 -> B
+0111 -> 7
+0100 -> 4
+0000 -> 0
+0000 -> 0
+```
+
+```plaintext
 rax = 0000 000B A43B 7400
 ```
 
 > - If a subsequent operation sets the word `ax` register to `50,000`<sub>10</sub> <br />
     (fifty thousand, which is C350<sub>16</sub>), the `rax` register would contain <br />
     the following value in hex.
+
 
 ```plaintext
 rax = 0000 000B A43B C350
