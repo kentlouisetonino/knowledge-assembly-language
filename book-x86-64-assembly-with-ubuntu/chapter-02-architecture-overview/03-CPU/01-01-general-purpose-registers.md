@@ -15,7 +15,7 @@
 
 > - When using data element sizes less than `64-bits` (i.e., 32-bit, 16-bit, or 8-bit), <br />
     the lower portion of the register can be accessed by using a different register <br />
-    name/
+    name.
 
 > - When accessing the lower portion of the 64-bit `rax` register, the layout is <br />
     as follows:

@@ -7,7 +7,7 @@
 > - The `CPU` is housed in a single chip, sometimes called a <br />
     processor, chip, or die.
 
-> - The `CPU` chicp includes a number of functional units, including <br />
+> - The `CPU` chip includes a number of functional units, including <br />
     the `Arithmetic Logic Unit (ALU)` which is part of the chip that <br />
     actually performs the arithmetic and logical calculations.
 
